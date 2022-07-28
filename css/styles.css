@@ -12,6 +12,9 @@
     height: 400px;
     position: relative;
     
+    transform: translateX(40%);
+    
+    
 }
 .items{
     width: 100%;
